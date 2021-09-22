@@ -1,5 +1,0 @@
-<root>
-    <item name='org.powermock.reflect.Whitebox java.util.Set&lt;java.lang.reflect.Field&gt; getFieldsAnnotatedWith(java.lang.Object, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;[])'>
-        <annotation name='org.jetbrains.annotations.Nullable'/>
-    </item>
-</root>
